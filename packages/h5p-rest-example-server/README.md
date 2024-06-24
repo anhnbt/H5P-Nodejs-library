@@ -5,6 +5,27 @@ chmod +x download-core.sh
 Chạy DB mongo
 docker compose up -d
 
+
+Lưu ý: dùng node 14
+Di chuyển vào thư mục H5P-Nodejs-library\packages\h5p-server
+
+Mở tệp h5p-server\assets\editorLanguages.json thêm "vi" vào cuối.
+
+Mở thư mục h5p-server\assets\translations thêm vi.json vào các folder muốn Việt hóa.
+
+Mở Git Bash
+npm install
+npm run build
+npm pack
+
+Copy tệp lumieducation-h5p-server-9.3.2.tgz vừa tạo được sang thư mục: C:\workspace\05_LMS\H5P-Nodejs-library\packages\h5p-rest-example-server
+Gõ lệnh:
+npm install lumieducation-h5p-server-9.3.2.tgz
+
+Trong thư mục h5p-rest-example-server\h5p\editor\language phải có tệp vi.json
+npm run build
+
+
 npm install
 
 npm run start
