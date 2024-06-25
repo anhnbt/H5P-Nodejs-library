@@ -25,7 +25,7 @@ export default function (
                 req.params.contentId,
                 req.user,
                 languageOverride === 'auto'
-                    ? req.language ?? 'en'
+                    ? req.language ?? 'vi'
                     : languageOverride,
                 {
                     // We pass through the contextId here to illustrate how
