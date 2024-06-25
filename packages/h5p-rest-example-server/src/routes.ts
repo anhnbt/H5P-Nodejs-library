@@ -77,7 +77,7 @@ export default function (
                     ? undefined
                     : req.params.contentId,
                 languageOverride === 'auto'
-                    ? req.language ?? 'en'
+                    ? req.language ?? 'vi'
                     : languageOverride,
                 req.user
             )) as H5P.IEditorModel;
