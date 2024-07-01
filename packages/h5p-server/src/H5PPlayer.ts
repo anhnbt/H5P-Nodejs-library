@@ -155,7 +155,7 @@ export default class H5PPlayer {
     public async render(
         contentId: ContentId,
         actingUser: IUser,
-        language: string = 'en',
+        language: string = 'vi',
         options?: {
             ignoreUserPermissions?: boolean;
             metadataOverride?: ContentMetadata;
@@ -443,7 +443,7 @@ export default class H5PPlayer {
                     metadata: {
                         license: metadata.license || 'U',
                         title: metadata.title || '',
-                        defaultLanguage: metadata.language || 'en',
+                        defaultLanguage: metadata.language || 'vi',
                         authors: metadata.authors,
                         changes: metadata.changes,
                         contentType: metadata.contentType,

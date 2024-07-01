@@ -376,7 +376,7 @@ export default class H5PEditor {
         machineName: string,
         majorVersion: string,
         minorVersion: string,
-        language: string = 'en'
+        language: string = 'vi'
     ): Promise<ILibraryDetailedDataForClient> {
         log.info(
             `getting data for library ${machineName}-${majorVersion}.${minorVersion}`
@@ -579,7 +579,7 @@ export default class H5PEditor {
     public render(
         contentId: ContentId,
         // eslint-disable-next-line @typescript-eslint/default-param-last
-        language: string = 'en',
+        language: string = 'vi',
         user: IUser
     ): Promise<string | any> {
         log.info(`rendering ${contentId}`);
@@ -1313,7 +1313,7 @@ export default class H5PEditor {
 
         const [library, translation] = await Promise.all([
             this.libraryManager.getLibrary(libraryName),
-            this.libraryManager.getLanguage(libraryName, language || 'en')
+            this.libraryManager.getLanguage(libraryName, language || 'vi')
         ]);
 
         if (!library) {
