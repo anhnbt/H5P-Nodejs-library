@@ -196,11 +196,13 @@ export default class ContentTypeCache {
     public async isOutdated(): Promise<boolean> {
         log.info(`checking if content type cache is up to date`);
         const lastUpdate = await this.storage.load('contentTypeCacheUpdate');
-        return (
-            !lastUpdate ||
-            Date.now() - lastUpdate >
-                this.config.contentTypeCacheRefreshInterval
-        );
+        // TODO: WanBi: ép không hiện thông báo
+        // return (
+        //     !lastUpdate ||
+        //     Date.now() - lastUpdate >
+        //         this.config.contentTypeCacheRefreshInterval
+        // );
+        return false;
     }
 
     /**
