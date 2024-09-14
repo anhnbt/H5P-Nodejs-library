@@ -9,7 +9,7 @@
         }
     },
     "H5P_ArithmeticQuiz": {
-        "title": "Bài kiểm tra Số học (Arithmetic Quiz)",
+        "title": "Bài tập tính nhẩm",
         "summary": "Tạo bài kiểm tra số học theo thời gian",
         "description": "Tạo bài kiểm tra số học bao gồm các câu hỏi lựa chọn. Như một tác giả, tất cả những gì bạn phải làm là quyết định loại và độ dài của bài kiểm tra. Người dùng theo dõi điểm số và thời gian đã dành khi giải bài kiểm tra.",
         "keywords": {
@@ -30,7 +30,7 @@
         }
     },
     "H5P_Collage": {
-        "title": "Collage (Collage)",
+        "title": "Ghép các hình ảnh",
         "summary": "Tạo một bức tranh ghép từ nhiều hình ảnh",
         "description": "Công cụ Collage cho phép bạn tổ chức hình ảnh thành một bức tranh dễ chịu.",
         "keywords": {
@@ -49,7 +49,7 @@
         }
     },
     "H5P_CoursePresentation": {
-        "title": "Bài thuyết trình Khóa học (Course Presentation)",
+        "title": "Slide tương tác",
         "summary": "Tạo một bài thuyết trình với các slide tương tác",
         "description": "Bài thuyết trình khóa học bao gồm các slide với đa phương tiện, văn bản và nhiều loại tương tác khác nhau như tổng kết tương tác, câu hỏi lựa chọn và video tương tác. Học viên có thể trải nghiệm tài liệu học tập tương tác mới và kiểm tra kiến thức và bộ nhớ của họ trong Bài thuyết trình Khóa học. Như mọi khi với H5P, nội dung có thể được chỉnh sửa trong trình duyệt web, và loại hoạt động Bài thuyết trình Khóa học bao gồm công cụ tác giả kéo và thả WYSIWYG. Một cách sử dụng thông thường của hoạt động Bài thuyết trình Khóa học là sử dụng một số slide để giới thiệu một chủ đề và theo sau đó là một số slide khác trong đó kiến thức của người dùng được kiểm tra. Tuy nhiên, Bài thuyết trình Khóa học có thể được sử dụng theo nhiều cách khác nhau, bao gồm cả làm công cụ thuyết trình để sử dụng trong lớp học, hoặc làm một trò chơi nơi điều hướng thông thường được thay thế bằng các nút điều hướng trên đầu các slide để cho phép người dùng lựa chọn và xem hậu quả của các lựa chọn của họ.",
         "keywords": {
@@ -67,7 +67,7 @@
         }
     },
     "H5P_DocumentationTool": {
-        "title": "Công cụ Tài liệu (Documentation Tool)",
+        "title": "Tạo tài liệu",
         "summary": "Tạo một trình hướng dẫn form với xuất text",
         "description": "Công cụ tài liệu nhằm mục đích tạo ra các trình hướng dẫn đánh giá dễ dàng cho các hoạt động hướng đến mục tiêu. Nó cũng có thể được sử dụng như một trình hướng dẫn form. Trong khi chỉnh sửa, tác giả có thể thêm nhiều bước vào trình hướng dẫn. Trong mỗi bước, tác giả có thể xác định nội dung nào đi vào bước đó. Nội dung có thể là văn bản thuần túy, các trường nhập, định nghĩa mục tiêu và đánh giá mục tiêu. Một khi được xuất bản, người dùng cuối cùng sẽ được đi qua các bước của trình hướng dẫn. Ở bước cuối cùng của trình hướng dẫn, người dùng có thể tạo một tài liệu với tất cả các thông tin đã được gửi. Tài liệu này có thể được tải xuống. Công cụ Tài liệu hoàn toàn phản hồi và hoạt động tốt trên các màn hình nhỏ cũng như trên máy tính để bàn của bạn.",
         "keywords": {
@@ -75,7 +75,7 @@
         }
     },
     "H5P_DragQuestion": {
-        "title": "Kéo và Thả (Drag and Drop)",
+        "title": "Kéo thả nội dung hình ảnh",
         "summary": "Tạo các nhiệm vụ kéo và thả với hình ảnh",
         "description": "Câu hỏi kéo và thả cho phép người học liên kết hai hoặc nhiều yếu tố và tạo ra các kết nối logic theo cách trực quan. Tạo câu hỏi Kéo và thả sử dụng cả văn bản và hình ảnh như các phương án kéo. Câu hỏi Kéo và thả H5P hỗ trợ mối quan hệ một-một, một-nhiều, nhiều-một và nhiều-nhiều giữa câu hỏi và câu trả lời.",
         "keywords": {
@@ -83,7 +83,7 @@
         }
     },
     "H5P_DragText": {
-        "title": "Kéo các từ (Drag the Words)",
+        "title": "Kéo thả từ",
         "summary": "Tạo các nhiệm vụ kéo và thả dựa trên văn bản",
         "description": "Kéo các từ cho phép các nhà thiết kế nội dung tạo ra các biểu thức văn bản với các phần văn bản bị thiếu. Người dùng cuối kéo một phần văn bản bị thiếu đến vị trí đúng, để tạo thành một biểu thức hoàn chỉnh. Có thể được sử dụng để kiểm tra xem người dùng có nhớ một văn bản mà cô ấy đã đọc, hoặc nếu cô ấy hiểu điều gì đó. Giúp người dùng suy nghĩ qua một văn bản. Rất dễ dàng để tạo một nhiệm vụ kéo các từ. Người chỉnh sửa chỉ viết văn bản và đặt các từ mà người dùng cần kéo, các câu trả lời đúng, trong dấu sao như *từKéo*.",
         "keywords": {
@@ -102,7 +102,7 @@
         }
     },
     "H5P_ImageHotspotQuestion": {
-        "title": "Tìm Điểm Nóng (Find the Hotspot)",
+        "title": "Tìm điểm khác biệt",
         "summary": "Tạo điểm nóng hình ảnh để người dùng tìm kiếm",
         "description": "Loại nội dung này cho phép người dùng cuối nhấn vào một nơi nào đó trên hình ảnh và nhận phản hồi về việc họ đã nhấn đúng hay sai theo mô tả nhiệm vụ. Tác giả tải lên một hình ảnh và xác định các điểm nóng tương ứng với các chi tiết hoặc phần của hình ảnh. Các điểm nóng có thể được xác định là đúng hoặc sai, và tác giả cung cấp văn bản phản hồi phù hợp trong cả hai trường hợp. Tác giả cũng có thể xác định một phản hồi nếu người dùng cuối nhấn vào một nơi nào đó không được xác định là điểm nóng đúng hoặc sai.",
         "keywords": {
@@ -121,7 +121,7 @@
         }
     },
     "H5P_IFrameEmbed": {
-        "title": "Nhúng Iframe (Iframe Embedder)",
+        "title": "Nhúng link",
         "summary": "Nhúng từ url hoặc một tập hợp các tệp",
         "description": "Trình nhúng Iframe giúp dễ dàng tạo H5P từ các ứng dụng JavaScript đã tồn tại.",
         "keywords": {
@@ -139,7 +139,7 @@
         }
     },
     "H5P_MarkTheWords": {
-        "title": "Đánh Dấu Từ (Mark the Words)",
+        "title": "Chọn từ đúng",
         "summary": "Tạo một nhiệm vụ mà người dùng đánh dấu từ",
         "description": "Đánh dấu từ cho phép nhà thiết kế nội dung tạo ra các biểu thức văn bản với một tập hợp các từ đúng được xác định. Người dùng cuối đánh dấu từ theo mô tả nhiệm vụ và nhận điểm số. Đối với người chỉnh sửa, rất dễ dàng để tạo một thách thức nhấp vào từ. Người chỉnh sửa nhập văn bản và đặt các từ mà người dùng cần nhấp, các câu trả lời đúng, trong dấu sao như *correctWord*.",
         "keywords": {
@@ -158,7 +158,7 @@
         }
     },
     "H5P_MultiChoice": {
-        "title": "Nhiều Lựa Chọn (Multiple Choice)",
+        "title": "Trắc nghiệm nhiều đáp án",
         "summary": "Tạo câu hỏi nhiều lựa chọn linh hoạt",
         "description": "Câu hỏi nhiều lựa chọn có thể là một công cụ đánh giá hiệu quả. Người học nhận được phản hồi về hiệu suất ngay lập tức. Câu hỏi nhiều lựa chọn H5P có thể có một hoặc nhiều lựa chọn đúng cho mỗi câu hỏi.",
         "keywords": {
@@ -185,7 +185,7 @@
         }
     },
     "H5P_QuestionSet": {
-        "title": "Bài Kiểm Tra (Tập Hợp Câu Hỏi) (Quiz (Question Set))",
+        "title": "Tạo bộ câu hỏi",
         "summary": "Tạo một chuỗi các loại câu hỏi khác nhau",
         "description": "Tập hợp câu hỏi là loại nội dung bài kiểm tra điển hình của bạn. Nó cho phép người học giải quyết một chuỗi các loại câu hỏi khác nhau như Lựa chọn nhiều, Kéo và thả và Điền vào chỗ trống trong một Tập hợp câu hỏi. Là một tác giả, có nhiều cài đặt bạn có thể sử dụng để làm cho nó hoạt động theo cách bạn muốn. Bạn có thể, ví dụ, tùy chỉnh Tập hợp câu hỏi với hình ảnh nền và xác định tỷ lệ phần trăm đạt của người học. Tập hợp câu hỏi cũng cho phép bạn thêm video được phát ở cuối. Một video cho thành công, một video khác nếu người học không đạt bài kiểm tra. Điều này có thể khích lệ người học thử lại nếu họ thất bại để họ có thể xem video thành công.",
         "keywords": {
@@ -195,7 +195,7 @@
         }
     },
     "H5P_SingleChoiceSet": {
-        "title": "Tập Hợp Lựa Chọn Đơn (Single Choice Set)",
+        "title": "Trắc nghiệm 1 đáp án",
         "summary": "Tạo câu hỏi với một câu trả lời đúng",
         "description": "Tập hợp lựa chọn đơn cho phép nhà thiết kế nội dung tạo tập hợp câu hỏi với một câu trả lời đúng cho mỗi câu hỏi. Người dùng cuối nhận được phản hồi ngay lập tức sau khi nộp mỗi câu trả lời.",
         "keywords": {
@@ -205,7 +205,7 @@
         }
     },
     "H5P_Summary": {
-        "title": "Tóm Tắt (Summary)",
+        "title": "Chọn câu trả lời đúng nhất",
         "summary": "Tạo nhiệm vụ với danh sách các phát biểu",
         "description": "Tóm tắt giúp người học nhớ thông tin quan trọng trong một văn bản, video hoặc bài thuyết trình, bằng cách xây dựng một bản tóm tắt về chủ đề đang nắm giữ. Khi người học hoàn thành một bản tóm tắt, một danh sách đầy đủ các phát biểu quan trọng về chủ đề sẽ được hiển thị.",
         "keywords": {
@@ -213,7 +213,7 @@
         }
     },
     "H5P_Timeline": {
-        "title": "Dòng Thời Gian (Timeline)",
+        "title": "Tạo mốc thời gian",
         "summary": "Tạo dòng thời gian của sự kiện với đa phương tiện",
         "description": "Đây là Timeline.js được phát triển bởi Knight Lab, được đóng gói dưới dạng loại nội dung H5P để làm cho dòng thời gian dễ chỉnh sửa, chia sẻ và tái sử dụng. Loại nội dung Dòng thời gian cho phép bạn đặt một chuỗi sự kiện theo thứ tự thời gian. Đối với mỗi sự kiện, bạn có thể thêm hình ảnh và văn bản. Bạn cũng có thể bao gồm các tài sản từ Twitter, YouTube, Flickr, Vimeo, Google Maps và SoundCloud.",
         "keywords": {
@@ -231,7 +231,7 @@
         }
     },
     "H5P_ImageHotspots": {
-        "title": "Điểm Nóng Hình Ảnh (Image Hotspots)",
+        "title": "Những điểm truy cập trong hình ảnh",
         "summary": "Tạo một hình ảnh với nhiều điểm thông tin nóng",
         "description": "Điểm nóng hình ảnh cho phép tạo một hình ảnh với các điểm nóng tương tác. Khi người dùng nhấn vào một điểm nóng, một cửa sổ popup chứa tiêu đề và văn bản hoặc video được hiển thị. Sử dụng trình chỉnh sửa H5P, bạn có thể thêm nhiều điểm nóng tùy ý.",
         "keywords": {
@@ -240,7 +240,7 @@
         }
     },
     "H5P_ImageMultipleHotspotQuestion": {
-        "title": "Tìm Nhiều Điểm Nóng (Find Multiple Hotspots)",
+        "title": "Tìm nhiều điểm khác biệt",
         "summary": "Tạo nhiều điểm nóng để người dùng tìm kiếm",
         "description": "Một loại câu hỏi dựa trên HTML5 miễn phí cho phép người sáng tạo tạo một bài kiểm tra dựa trên hình ảnh nơi người học cần tìm các điểm chính xác trên hình ảnh. Sử dụng loại nội dung này với plugin H5P cho WordPress, Moodle hoặc Drupal để thách thức người dùng của bạn."
     },
@@ -298,7 +298,7 @@
         }
     },
     "H5P_Flashcards": {
-        "title": "Thẻ Nhớ (Flashcards)",
+        "title": "Giải đáp hình ảnh",
         "summary": "Tạo thẻ nhớ hiện đại và phong cách",
         "description": "Loại nội dung này cho phép tác giả tạo một thẻ nhớ đơn hoặc một tập hợp thẻ nhớ, nơi mỗi thẻ có hình ảnh được ghép với câu hỏi và câu trả lời. Người học được yêu cầu điền vào trường văn bản và sau đó kiểm tra độ chính xác của giải pháp của họ.",
         "keywords": {
@@ -333,7 +333,7 @@
         }
     },
     "H5P_Essay": {
-        "title": "Bài Luận (Essay)",
+        "title": "Bài tập tự luận",
         "summary": "Tạo Bài Luận với phản hồi tức thì",
         "description": "Trong loại nội dung này, tác giả xác định một tập hợp các từ khóa đại diện cho các khía cạnh quan trọng của một chủ đề. Những từ khóa này được so sánh với một văn bản mà học sinh đã soạn và có thể được sử dụng để cung cấp phản hồi ngay lập tức - hoặc đề xuất sửa đổi chi tiết chủ đề nào đó nếu một từ khóa bị thiếu hoặc xác nhận ý tưởng của học sinh nếu văn bản chứa một từ khóa.\r\n",
         "keywords": {
@@ -341,7 +341,7 @@
         }
     },
     "H5P_ImagePair": {
-        "title": "Ghép Đôi Hình Ảnh (Image Pairing)",
+        "title": "Kéo thả hình ảnh",
         "summary": "Trò chơi ghép đôi hình ảnh bằng kéo thả",
         "description": "Ghép đôi hình ảnh là một hoạt động đơn giản và hiệu quả yêu cầu người học phải ghép đôi hình ảnh. Vì không yêu cầu cả hai hình ảnh trong một cặp phải giống nhau, tác giả cũng có thể kiểm tra sự hiểu biết về mối quan hệ giữa hai hình ảnh khác nhau. ",
         "keywords": {
@@ -349,7 +349,7 @@
         }
     },
     "H5P_Dictation": {
-        "title": "Đọc và Viết (Dictation)",
+        "title": "Nghe và viết",
         "summary": "Tạo bài đọc và viết với phản hồi tức thì",
         "description": "Bạn có thể thêm các mẫu âm thanh chứa một câu cho bài đọc và viết và nhập bản dịch chính xác. Học sinh của bạn có thể nghe các mẫu và nhập những gì họ đã nghe vào một trường văn bản. Câu trả lời của họ sẽ được đánh giá tự động. Một số tùy chọn sẽ cho phép bạn kiểm soát độ khó của bài tập. Bạn có thể tùy chọn thêm một mẫu âm thanh thứ hai cho một câu có thể chứa phiên bản nói chậm. Bạn cũng có thể đặt giới hạn cho số lần một mẫu có thể được phát, xác định xem dấu câu có nên liên quan đến việc chấm điểm không, và quyết định xem những lỗi nhỏ như lỗi gõ phải được tính là không có lỗi, một lỗi đầy đủ, hay chỉ là một nửa lỗi.",
         "keywords": {
@@ -368,7 +368,7 @@
         "description": "Hình ảnh 360 (equirectangular) và hình ảnh bình thường có thể được làm phong phú với các tương tác như giải thích, video, âm thanh, và câu hỏi tương tác. Các hình ảnh tạo ra các cảnh cũng có thể được liên kết với nhau để tạo cho người dùng ấn tượng về việc di chuyển giữa các môi trường hoặc giữa các quan điểm khác nhau trong cùng một môi trường."
     },
     "H5P_FindTheWords": {
-        "title": "Tìm từ (Find the words)",
+        "title": "Trò chơi nối từ",
         "summary": "Trò chơi tìm từ trên lưới",
         "description": "Một hoạt động tìm từ dựa trên HTML5 miễn phí cho phép tác giả tạo ra một danh sách từ sẽ được vẽ trên một lưới. Nhiệm vụ của người học là tìm và chọn các từ trong lưới."
     },
@@ -390,7 +390,7 @@
         }
     },
     "H5P_AdventCalendar": {
-        "title": "Lịch Đếm Ngược Giáng Sinh (beta) (Advent Calendar (beta))",
+        "title": "Tạo lịch học tập",
         "summary": "Tạo những bất ngờ sẽ được tiết lộ hàng ngày",
         "description": "Xây dựng và tùy chỉnh một lịch đếm ngược Giáng Sinh đẹp mắt. Bạn có thể thêm một hình ảnh nền cho toàn bộ lịch, trên mỗi cánh cửa, và làm nền cho nội dung bên trong mỗi cánh cửa. Bạn cũng có thể thêm hiệu ứng tuyết và âm nhạc. Bên trong mỗi cánh cửa, bạn có thể thêm âm thanh, video, văn bản, hình ảnh, hoặc liên kết.\r\n\r\nLưu ý rằng người dùng am hiểu về máy tính có thể dễ dàng tiết lộ nội dung của tất cả các cánh cửa ngay lập tức. Nếu bạn dự định tiết lộ những bí mật lớn vào các ngày sau, bạn nên đợi đến ngày đó trước khi thêm những bí mật lớn của bạn vào lịch.",
         "keywords": {
@@ -401,7 +401,7 @@
         }
     },
     "H5P_Crossword": {
-        "title": "Ô chữ (Crossword)",
+        "title": "Trò chơi ô chữ",
         "summary": "Tạo một trò chơi ô chữ",
         "description": "Xây dựng và tùy chỉnh một trò chơi ô chữ đẹp mắt để thu hút khán giả của bạn. Trò chơi ô chữ có thể tùy chỉnh cao cho phép bạn cấu hình tất cả các màu sắc, tải lên một hình ảnh nền, quyết định cách tính điểm và thậm chí xáo trộn các từ trong nó để khán giả của bạn nhận được một trò chơi ô chữ mới mỗi lần nếu bạn muốn.",
         "keywords": {
