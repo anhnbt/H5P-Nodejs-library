@@ -87,7 +87,7 @@ export default class H5PConfig implements IH5PConfig {
         'H5P.FreeTextQuestion'
     ];
     public maxFileSize: number = 1.5 * 1024 * 1024 * 1024;
-    public maxTotalSize: number = 64 * 1024 * 1024;
+    public maxTotalSize: number = 512 * 1024 * 1024;
     public paramsUrl: string = '/params';
     public platformName: string = 'H5P-Editor-NodeJs';
     public platformVersion: string = '0.10';
